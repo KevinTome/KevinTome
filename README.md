@@ -2,13 +2,13 @@
 
 - 👤 My full name is Kevin Lourenço Tomé
 - 🌍 I'm from São Paulo, Brazil 
-- 🏛️ I'm currently graduaring in Science and Tecnology/ UNIFESP
+- 🏛️ I'm currently graduating in a interdisciplinary bachelor's degree of Science and Tecnology/ UNIFESP
 - 🔭 I’m currently working with frontend development
 - 🌱 I’m currently learning typescript
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im also a musician and sound designer
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also a musician and sound designer
 
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/KevinTome">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinTome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTome&layout=compact&langs_count=7&theme=dracula"/>
