@@ -2,9 +2,9 @@
 
 - 👤 My full name is Kevin Lourenço Tomé
 - 🌍 I'm from São Paulo, Brazil 
-- 🏛️ I'm currently graduating in a interdisciplinary bachelor's degree of Science and Tecnology/ UNIFESP
-- 🔭 I’m currently working with frontend development
-- 🌱 I’m currently learning typescript
+- 🏛️ I have a interdisciplinary bachelor degree in Science and Tecnology
+- 🔭 I’m currently working with Graphic Design and Motion Design
+- 🌱 I’m currently learning UX and UI Design
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a musician and sound designer
 
